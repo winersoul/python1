@@ -2,10 +2,4 @@
 python入门
 
 
-blablaba
-
-this is a test
-
-just a joke 
-
-haha
+代码 测试例子
